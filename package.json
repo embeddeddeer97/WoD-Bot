@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", Wings-of-Duty-Bot
+  "main": "bot.js", WingsOfDutyBot
   "scripts": {
     "start": "node bot.js"
   },
